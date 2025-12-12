@@ -29,18 +29,24 @@ In recognition of my contributions, I have been honored with Best Paper Awards f
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div>
-      <!-- 根据论文类型显示不同徽章 -->
-      <div class="badge badge-journal">JCR Q1</div> <div class="badge badge-if">IF: 8.4</div> <img src='images/AEI.jpg' alt="Advanced Engineering Informatics" width="100%">
+    <div class="journal-info-bar">
+      <span class="badge badge-journal">JCR Q1</span>
+      <span class="badge badge-if">IF: 8.4</span>
+      <span class="journal-name">Advanced Engineering Informatics</span>
     </div>
+    <img src='images/AEI.jpg' alt="Advanced Engineering Informatics" width="100%" onerror="this.style.display='none'">
   </div>
   <div class='paper-box-text' markdown="1">
 
-[Physics modeling-driven interpretable data augmentation method for bearing fault diagnosis under imbalanced data](https://www.sciencedirect.com/science/article/pii/S1474034625010821)
+**[Physics modeling-driven interpretable data augmentation method for bearing fault diagnosis under imbalanced data](https://www.sciencedirect.com/science/article/pii/S1474034625010821)**
 
 Lijuan Zhao, **Junyu Qi**, Yi Wang, Yi Qin
+*Advanced Engineering Informatics*, 2024, Vol. 62, 102407
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  </div>
+</div>
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=4D0W50YAAAAJ&citation_for_view=4D0W50YAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='4D0W50YAAAAJ:ALROH1vI_8AC'></span></strong>
 - The industrial project of wear monitoring and anomaly detection of roller chains system is closed. 
 </div>
 </div>
