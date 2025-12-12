@@ -46,7 +46,7 @@ Lijuan Zhao, **Junyu Qi**, Yi Wang, Yi Qin
   </div>
 </div>
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=4D0W50YAAAAJ&citation_for_view=4D0W50YAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='4D0W50YAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=4D0W50YAAAAJ&citation_for_view=4D0W50YAAAAJ:hqOjcs7Dif8C) <strong><span class='show_paper_citations' data='4D0W50YAAAAJ:hqOjcs7Dif8C'></span></strong>
 - The industrial project of wear monitoring and anomaly detection of roller chains system is closed. 
 </div>
 </div>
