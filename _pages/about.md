@@ -30,7 +30,7 @@ In recognition of my contributions, I have been honored with Best Paper Awards f
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div class="journal-info-bar">
-      <span class="badge badge-journal">JCR Q1</span>
+      <span class="badge badge-journal">JCR: Q1</span>
       <span class="badge badge-if">IF: 8.4</span>
       <span class="journal-name">Advanced Engineering Informatics</span>
     </div>
