@@ -35,8 +35,6 @@ I actively contribute to the academic community by serving as a reviewer for num
       <span class="badge badge-if">IF: 8.4</span>
       <span class="journal-name">Advanced Engineering Informatics</span>
     </div>
-    <!-- 图片在标签下方 -->
-    <img src='images/AEI.jpg' alt="Advanced Engineering Informatics" width="30px" height="30px">
   </div>
   <div class='paper-box-text' markdown="1">
     <!-- 论文内容保持不变 -->
