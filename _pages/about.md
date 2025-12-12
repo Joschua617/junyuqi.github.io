@@ -35,7 +35,7 @@ In recognition of my contributions, I have been honored with Best Paper Awards f
       <!-- 根据论文类型显示不同徽章 -->
       <div class="badge badge-journal">JCR Q1</div>
       <div class="badge badge-if">IF: 8.4</div>
-      <img src='images/mssp_paper_cover.png' alt="Bearing fault diagnosis" width="100%">
+      <img src='images/AEI.jpg' alt="Advanced Engineering Informatics" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
