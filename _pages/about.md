@@ -29,16 +29,18 @@ I actively contribute to the academic community by serving as a reviewer for num
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class="journal-info-bar">
+    <!-- 新增的“标签容器” -->
+    <div class="journal-label-row">
       <span class="badge badge-journal">JCR: Q1</span>
       <span class="badge badge-if">IF: 8.4</span>
       <span class="journal-name">Advanced Engineering Informatics</span>
     </div>
+    <!-- 图片在标签下方 -->
     <img src='images/AEI.jpg' alt="Advanced Engineering Informatics" width="30px" height="30px">
   </div>
   <div class='paper-box-text' markdown="1">
-
-**[Physics modeling-driven interpretable data augmentation method for bearing fault diagnosis under imbalanced data](https://www.sciencedirect.com/science/article/pii/S1474034625010821)**
+    <!-- 论文内容保持不变 -->
+    **[Physics modeling-driven interpretable data augmentation method for bearing fault diagnosis under imbalanced data](https://www.sciencedirect.com/science/article/pii/S1474034625010821)**
 
 Lijuan Zhao, **Junyu Qi**, Yi Wang, Yi Qin
 *Advanced Engineering Informatics*, 2024, Vol. 62, 102407
