@@ -92,16 +92,13 @@ I actively contribute to the academic community by serving as a reviewer for num
 - **<span class="badge badge-degree">M.Sc.</span> Mechatronics**  
   *2013.10 - 2016.11*, Friedrich-Alexander-University Erlangen-Nuremberg, Erlangen, Germany.
 
-- **<span class="badge badge-degree">B.Eng.</span> Mechatronics (Port machinery)**  
-  *2008.09 - 2012.06*, Shanghai Maritime University, Shanghai, China.
-
 - **German Language Course**  
   *2013.01 - 2013.03*, University of Duisburg-Essen, Essen, Germany.
 
-- *2017.01 - 2024.02*, Mechanical Engineering, KU Leuven, Leuven, Belgium. 
-- *2013.10 - 2016.11*, Mechtronics, Friedrich-Alexander-University Erlangen-Nuremberg, Erlangen, Germany.
-- *2013.01 - 2013.03*, German language course, University of Duisburg-Essen, Essen, Germany.
-- *2008.09 - 2012.06*, Mechtronics (Port machinery), Shanghai Maritime University, Shanghai, China. 
+- **<span class="badge badge-degree">B.Eng.</span> Mechatronics (Port machinery)**  
+  *2008.09 - 2012.06*, Shanghai Maritime University, Shanghai, China.
+
+
 
 # 💬 Invited Talks
 - *2025.11*, Robust health assessment of chain systems based on a sensorless strategy and transfer learning technique, The 2nd China Europe Scientists Forum - CESF 2025, Heidelberg, Germany.
