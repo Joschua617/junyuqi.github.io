@@ -86,18 +86,6 @@ I actively contribute to the academic community by serving as a reviewer for num
 - *2018.08* Best paper award, Vibration based condition monitoring of planetary gearboxes operating under speed varying operating conditions based on cyclo-non-stationary analysis, International Conference on Rotor Dynamics, 2018, Santander, Spain. 
 
 # 📖 Educations
-- **<span class="badge badge-degree">PhD</span> Mechanical Engineering**  
-  *2017.01 - 2024.02*, KU Leuven, Leuven, Belgium.
-
-- **<span class="badge badge-degree">M.Sc.</span> Mechatronics**  
-  *2013.10 - 2016.11*, Friedrich-Alexander-University Erlangen-Nuremberg, Erlangen, Germany.
-
-- **German Language Course**  
-  *2013.01 - 2013.03*, University of Duisburg-Essen, Essen, Germany.
-
-- **<span class="badge badge-degree">B.Eng.</span> Mechatronics (Port machinery)**  
-  *2008.09 - 2012.06*, Shanghai Maritime University, Shanghai, China.
-
 <ul class="education-list">
   <li>
     <strong><span class="badge badge-degree">PhD</span> Mechanical Engineering</strong><br>
