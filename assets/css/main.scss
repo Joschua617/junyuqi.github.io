@@ -137,7 +137,7 @@ h1:before, .anchor:before {
     display: inline-block !important; /* 确保它作为行内块元素 */
     margin-top: 0 !important;
     margin-left: 0 !important;
-    margin-right: 0.5em !important; /* 只在右侧添加间距，避免重叠 */
+    margin-right: 1.5em !important; /* 只在右侧添加间距，避免重叠 */
     padding: 0.2em 0.6em;
     font-size: 0.75em;
     font-weight: bold;
