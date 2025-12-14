@@ -132,7 +132,7 @@ h1:before, .anchor:before {
 }
 
 /* 学位徽章样式 */
-.badge-degree {
+#educations .badge-degree {
     position: static !important; /* 关键：强制覆盖绝对定位 */
     display: inline-block !important; /* 确保它作为行内块元素 */
     margin-top: 0 !important;
