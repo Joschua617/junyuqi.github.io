@@ -45,7 +45,7 @@ I actively contribute to the academic community by serving as a reviewer for num
   </div>
 </div>
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=4D0W50YAAAAJ&citation_for_view=4D0W50YAAAAJ:hqOjcs7Dif8C) <strong><span class='show_paper_citations' data='4D0W50YAAAAJ:hqOjcs7Dif8C'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=4D0W50YAAAAJ&citation_for_view=4D0W50YAAAAJ:ULOm3_A8WrAC) <strong><span class='show_paper_citations' data='4D0W50YAAAAJ:hqOjcs7Dif8C'></span></strong>
 - The industrial project of wear monitoring and anomaly detection of roller chains system is closed. 
 
 # 🎖 Honors and Awards
@@ -63,5 +63,6 @@ I actively contribute to the academic community by serving as a reviewer for num
 - *2025.11*, Robust health assessment of chain systems based on a sensorless strategy and transfer learning technique, The 2nd China Europe Scientists Forum - CESF 2025, Heidelberg, Germany.
 
 # 💻 Experiences
-- *2023.12 - 2025.12 (now)*, Reutlingen Research Institute, Reutlingen, Germany.
+- *2026.01 - now*, Karlsruhe Institute of Technology, Karlsruhe, Germany.
+- *2023.12 - 2025.12*, Reutlingen Research Institute, Reutlingen, Germany.
 - *2015.10 - 2016.11*, Bosch Rexroth, Lohr am Main, Germany.
