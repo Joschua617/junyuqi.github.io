@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Junyu Qi"
-description              : "My name is Junyu Qi, I am currently working in the field of condition monitoring and industrial AI at Karlsruhe Institute of Technology (KIT), Germany. "
+description              : "I am a researcher at the Karlsruhe Institute of Technology (KIT) with over a decade of experience in industrial condition monitoring."
 repository               : "Joschua617/junyuqi.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/junyu-qi-234a23122/"  # e.g., "linkedin username"
+  linkedin         : "https://www.linkedin.com/in/junyu-qi-234a23122/"  # e.g., "linkedin username" 
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : "https://orcid.org/0000-0003-1669-8987" # e.g., "https://orcid.org/xxxx"
   pinterest        :
