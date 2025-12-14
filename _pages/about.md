@@ -98,6 +98,25 @@ I actively contribute to the academic community by serving as a reviewer for num
 - **<span class="badge badge-degree">B.Eng.</span> Mechatronics (Port machinery)**  
   *2008.09 - 2012.06*, Shanghai Maritime University, Shanghai, China.
 
+<ul class="education-list">
+  <li>
+    <strong><span class="badge badge-degree">PhD</span> Mechanical Engineering</strong><br>
+    <em>2017.01 - 2024.02</em>, KU Leuven, Leuven, Belgium.
+  </li>
+  <li>
+    <strong><span class="badge badge-degree">M.Sc.</span> Mechatronics</strong><br>
+    <em>2013.10 - 2016.11</em>, Friedrich-Alexander-University Erlangen-Nuremberg, Erlangen, Germany.
+  </li>
+  <li>
+    <strong><span class="badge badge-degree">B.Eng.</span> Mechatronics (Port machinery)</strong><br>
+    <em>2008.09 - 2012.06</em>, Shanghai Maritime University, Shanghai, China.
+  </li>
+  <li>
+    <strong>German Language Course</strong><br>
+    <em>2013.01 - 2013.03</em>, University of Duisburg-Essen, Essen, Germany.
+  </li>
+</ul>
+
 
 
 # 💬 Invited Talks
