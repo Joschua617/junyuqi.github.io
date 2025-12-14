@@ -42,6 +42,16 @@ I actively contribute to the academic community by serving as a reviewer for num
   Lijuan Zhao, **Junyu Qi**, Yi Wang, Yi Qin
   *Advanced Engineering Informatics*, 2024, Vol. 62, 102407
 
+**[Physics-driven interpretable data augmentation for bearing fault diagnosis under data imbalance](https://www.sciencedirect.com/science/article/pii/S1474034625010821)**
+
+  Lijuan Zhao, **Junyu Qi**, Yi Wang, Yi Qin
+  *Advanced Engineering Informatics*, 2024, Vol. 62, 102407
+
+**[Physics-driven interpretable data augmentation for bearing fault diagnosis under data imbalance](https://www.sciencedirect.com/science/article/pii/S1474034625010821)**
+
+  Lijuan Zhao, **Junyu Qi**, Yi Wang, Yi Qin
+  *Advanced Engineering Informatics*, 2024, Vol. 62, 102407
+
   </div>
 </div>
 
