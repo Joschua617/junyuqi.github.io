@@ -107,3 +107,20 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+
+/* 解决方案：覆盖原有 .badge 的绝对定位，使其正常排列 */
+.paper-box-image .badge,
+.paper-box-image .journal-name {
+    /* 关键：移除绝对定位，恢复为正常的静态或相对定位 */
+    position: static !important; /* 或 relative, initial */
+    /* 移除绝对定位带来的偏移 */
+    margin-top: 0;
+    margin-left: 0;
+    /* 设置为块级元素，每个独占一行 */
+    display: block;
+    /* 添加间距 */
+    margin-bottom: 0.5em;
+    /* 宽度自适应内容，左对齐 */
+    width: fit-content;
+}
