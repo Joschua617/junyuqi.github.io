@@ -153,8 +153,10 @@ h1:before, .anchor:before {
   color: white;
   background-color: #6f42c1;
   border-radius: 4px;
-  margin-right: 12px;
+  width: 60px; /* 根据最长的徽章（如 B.Eng.）设置足够宽度 */
+  margin-right: 22px;
   vertical-align: middle; /* 垂直居中对齐文字 */
+  text-align: center; /* 徽章内文字居中 */
 }
 
 /* 确保专业名称和时间地点行正确换行和分隔 */
