@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Junyu Qi"
-description              : "I am a researcher at the Karlsruhe Institute of Technology (KIT) with over a decade of experience in industrial condition monitoring."
+description              : "I am a researcher at KIT with over a decade of experience in industrial condition monitoring."
 repository               : "Joschua617/junyuqi.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Junyu Qi"
   avatar           : "images/avarar-512.png"
-  bio              : "Karlsruhe Institute of Technology"
+  bio              : "Karlsruhe Institute of Technology (KIT)"
   location         : "Karlsruhe, Germany"
   employer         :
   pubmed           : 
