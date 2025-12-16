@@ -93,8 +93,11 @@ I actively contribute to the academic community by serving as a reviewer for num
   </div>
 </div>
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=4D0W50YAAAAJ&citation_for_view=4D0W50YAAAAJ:ULOm3_A8WrAC) <strong><span class='show_paper_citations' data='4D0W50YAAAAJ:hqOjcs7Dif8C'></span></strong>
-- The industrial project of wear monitoring and anomaly detection of roller chains system is closed. 
+# 📚 Projects
+[**Project 1**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=4D0W50YAAAAJ&citation_for_view=4D0W50YAAAAJ:ULOm3_A8WrAC) <strong><span class='show_paper_citations' data='4D0W50YAAAAJ:hqOjcs7Dif8C'></span></strong>
+- The industrial project of wear monitoring and anomaly detection of roller chains system. 
+[**Project 2**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=4D0W50YAAAAJ&citation_for_view=4D0W50YAAAAJ:ULOm3_A8WrAC) <strong><span class='show_paper_citations' data='4D0W50YAAAAJ:hqOjcs7Dif8C'></span></strong>
+- The setup design of industrial SKF bearings, used for anomaly detection, fault diagnosis and pronosis, virtual sensing, etc.
 
 # 🎖 Honors and Awards
 - *2025.06* Best paper candidate (ranked top 3), MCTSDE: a novel sensorless strategy for efficient and cost-effective health assessment of roller chain systems, 2025, Brugges, Belgium.
